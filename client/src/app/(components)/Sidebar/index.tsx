@@ -36,7 +36,6 @@ const Sidebar = () => {
                     </div>
                 </div>
                 { /* NAVBAR LINKS */ }
-                <p className="text-sm text-bold text-white">HOME</p>
             </div>
         </div>
     );
